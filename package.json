@@ -1,0 +1,20 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "나의 풀스택을 만들어보자",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octofox1357/fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octofox1357/fullstack/issues"
+  },
+  "homepage": "https://github.com/octofox1357/fullstack#readme"
+}
